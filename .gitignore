@@ -23,3 +23,6 @@ __pycache__/
 # dotenv 무시 설정
 .env
 # 비밀 키 같은거 공유 가능 (깃허브에 올리지 않음)
+
+models/
+catboost_info/
